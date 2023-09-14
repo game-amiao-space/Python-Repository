@@ -1,4 +1,4 @@
-a = int(input("请输入明文:"))
+a = int(input())
 cipher_text = ()
 if(a % 2 == 0):
     cipher_text = a*2+2
